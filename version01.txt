@@ -1,1 +1,7 @@
-"This is my feature for my resources"
+"This is my feature for my resource"
+
+"Making the following changes:..."
+
+This is Tina the bug fix in the developement branch.
+
+This feature will Tina everything from now.
