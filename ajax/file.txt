@@ -1,0 +1,2 @@
+Git rocks!
+my first demo with git

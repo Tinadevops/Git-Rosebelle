@@ -1,0 +1,11 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Tinaaja
+	email = ajaaugustina54@gmail.com
+	mane = Augustinaaja
+[credential "https://git-codecommit.us-east-1.amazonaws.com"]
+	provider = generic
